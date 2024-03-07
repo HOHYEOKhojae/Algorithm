@@ -28,6 +28,7 @@
 		276E65BB2B98A149003DFD7D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		276E65C52B98A418003DFD7D /* problem01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = problem01.cpp; sourceTree = "<group>"; };
 		276E65C62B98A418003DFD7D /* problem01.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = problem01.hpp; sourceTree = "<group>"; };
+		27B8DC872B99E239007502AF /* problem02.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = problem02.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				276E65BB2B98A149003DFD7D /* main.cpp */,
 				276E65C52B98A418003DFD7D /* problem01.cpp */,
 				276E65C62B98A418003DFD7D /* problem01.hpp */,
+				27B8DC872B99E239007502AF /* problem02.hpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
