@@ -9,5 +9,7 @@
 #define problem04_hpp
 
 #include <stdio.h>
-
+void problem04();
 #endif /* problem04_hpp */
+
+

@@ -9,5 +9,5 @@
 #define problem06_hpp
 
 #include <stdio.h>
-
+void pointFunc();
 #endif /* problem06_hpp */
