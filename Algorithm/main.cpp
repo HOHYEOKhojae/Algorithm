@@ -14,6 +14,10 @@ using namespace std;
 #include "problem04.hpp"
 #include "problem05.hpp"
 #include "problem06.hpp"
+#include "problem07.hpp"
+#include "problem08.hpp"
+
+
 
 
 int main(int argc, const char * argv[]) {
@@ -47,6 +51,17 @@ int main(int argc, const char * argv[]) {
     cout << endl;
     
     // 24.03.30
-    printf("=====Problem 06======\n");
-    pointFunc();
+//    printf("=====Problem 06======\n");
+//    pointFunc();
+//    cout << endl;
+    
+    // 24.03.31
+    printf("=====Problem 07======\n");
+    problem07();
+    cout << endl;
+    
+    // 03.10.25
+    printf("=====Problem 08======\n");
+    problem08();
+    cout << endl;
 }

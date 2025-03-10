@@ -7,8 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		270E134E2BB9085E004FCBC8 /* problem07.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 270E134C2BB9085E004FCBC8 /* problem07.cpp */; };
 		276E65BC2B98A149003DFD7D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 276E65BB2B98A149003DFD7D /* main.cpp */; };
 		276E65C72B98A418003DFD7D /* problem01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 276E65C52B98A418003DFD7D /* problem01.cpp */; };
+		27A29FD02BBD45CC009FDBDD /* problem08.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 27A29FCE2BBD45CC009FDBDD /* problem08.cpp */; };
 		27FF434D2B9F37FB005C8C2C /* problem03.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 27FF434B2B9F37FB005C8C2C /* problem03.cpp */; };
 		27FF43502BA9BEDE005C8C2C /* problem04.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 27FF434E2BA9BEDE005C8C2C /* problem04.cpp */; };
 		27FF43532BB7AF43005C8C2C /* problem05.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 27FF43512BB7AF43005C8C2C /* problem05.cpp */; };
@@ -28,10 +30,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		270E134C2BB9085E004FCBC8 /* problem07.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = problem07.cpp; sourceTree = "<group>"; };
+		270E134D2BB9085E004FCBC8 /* problem07.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = problem07.hpp; sourceTree = "<group>"; };
 		276E65B82B98A149003DFD7D /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		276E65BB2B98A149003DFD7D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		276E65C52B98A418003DFD7D /* problem01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = problem01.cpp; sourceTree = "<group>"; };
 		276E65C62B98A418003DFD7D /* problem01.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = problem01.hpp; sourceTree = "<group>"; };
+		27A29FCE2BBD45CC009FDBDD /* problem08.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = problem08.cpp; sourceTree = "<group>"; };
+		27A29FCF2BBD45CC009FDBDD /* problem08.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = problem08.hpp; sourceTree = "<group>"; };
 		27B8DC872B99E239007502AF /* problem02.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = problem02.hpp; sourceTree = "<group>"; };
 		27FF434B2B9F37FB005C8C2C /* problem03.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = problem03.cpp; sourceTree = "<group>"; };
 		27FF434C2B9F37FB005C8C2C /* problem03.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = problem03.hpp; sourceTree = "<group>"; };
@@ -85,6 +91,10 @@
 				27FF434F2BA9BEDE005C8C2C /* problem04.hpp */,
 				27FF43512BB7AF43005C8C2C /* problem05.cpp */,
 				27FF43522BB7AF43005C8C2C /* problem05.hpp */,
+				270E134C2BB9085E004FCBC8 /* problem07.cpp */,
+				270E134D2BB9085E004FCBC8 /* problem07.hpp */,
+				27A29FCE2BBD45CC009FDBDD /* problem08.cpp */,
+				27A29FCF2BBD45CC009FDBDD /* problem08.hpp */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -150,8 +160,10 @@
 				276E65C72B98A418003DFD7D /* problem01.cpp in Sources */,
 				27FF43532BB7AF43005C8C2C /* problem05.cpp in Sources */,
 				27FF434D2B9F37FB005C8C2C /* problem03.cpp in Sources */,
+				270E134E2BB9085E004FCBC8 /* problem07.cpp in Sources */,
 				27FF43502BA9BEDE005C8C2C /* problem04.cpp in Sources */,
 				27FF43562BB810BA005C8C2C /* problem06.cpp in Sources */,
+				27A29FD02BBD45CC009FDBDD /* problem08.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
