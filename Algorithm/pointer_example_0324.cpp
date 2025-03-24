@@ -1,5 +1,4 @@
-#include stdio.h
-#include "finc1"
+#include <stdio.h>
 
 void func1()
 {
@@ -16,4 +15,7 @@ int main()
   func1();
 
   // a,b 의 값은 어떻게 되는가?
+
+  printf("a의 값은: %d\n", a);
+  printf("b의 값은: %d\n", b);
 }
